@@ -1,3 +1,5 @@
+![demo](video/demo.gif)
+
 # Hardware button for muting/unmuting google hangouts meet
 
 One python-script that finds the first chrome-windows, screenshots the area where the "muted" icon is shown to see if hangouts is muted or not.
